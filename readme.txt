@@ -1,0 +1,1 @@
+the user cannot upload profile photo, if he is blocked 
